@@ -1,0 +1,11 @@
+h1, h2, h3 {
+    color: rgb(70, 98, 59)
+}
+p {
+    font-style: italic;
+    color: rgb(2, 4, 32);
+}
+a {
+    font-size: medium;
+    text-decoration: black;
+}
