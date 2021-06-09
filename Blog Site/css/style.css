@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital@0;1&display=swap');
 @import "all.css" screen;
+@import "main.css";
 @media (max-width: 600px) and (min-width: 400px){
     .container{
         display: grid;
